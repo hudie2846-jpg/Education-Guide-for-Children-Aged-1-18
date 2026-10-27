@@ -27,8 +27,5 @@ node tools/build.cjs
 
 无需额外依赖。默认写入该仓库目录，也可在命令后指定输出目录。网页可直接离线打开，也适合静态托管；可下载到本地离线使用。
 
-## 对标与出处
-
-组织方式参考 [《高性价比人生指南》](https://github.com/eternity4719/HowToLiveBetter)的按问题索引、投入和来源说明。内容与界面独立编写，不代表参考项目背书。原项目正文使用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，此处仅说明参考项目许可。
 
 版本：1.0；资料核对：2026-10-26。具体修订记录见 [CHANGELOG.md](CHANGELOG.md)。
