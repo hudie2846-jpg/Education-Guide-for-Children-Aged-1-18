@@ -1,0 +1,2416 @@
+{
+  "title": "A Practical Guide for Children Ages 1–18 and Their Parents",
+  "version": "1.0",
+  "date": "2026-10-26",
+  "sources": [
+    {
+      "id": "S01",
+      "title": "AAP: Effective Discipline to Raise Healthy Children",
+      "type": "United States · Professional policy statement",
+      "url": "https://publications.aap.org/pediatrics/article/142/6/e20183112/37382/Effective-Discipline-to-Raise-Healthy-Children",
+      "scope": "Supports nonviolent guidance and avoiding physical punishment and humiliation. It does not validate every script in this guide.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S02",
+      "title": "Canadian Paediatric Society: Positive Discipline for Young Children",
+      "type": "Canada · Professional guidance",
+      "url": "https://caringforkids.cps.ca/handouts/behavior-and-development/positive-discipline-for-young-children",
+      "scope": "Age-appropriate expectations, relationships, and redirection; not a developmental milestone test.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S03",
+      "title": "Harvard: A Guide to Serve and Return",
+      "type": "United States · Child-development research communication",
+      "url": "https://developingchild.harvard.edu/resource-guides/guide-serve-and-return/",
+      "scope": "Responsive interaction; does not endorse brain-training products.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S04",
+      "title": "Harvard: Activities for Practicing Executive Function",
+      "type": "United States · Activity guide",
+      "url": "https://developingchild.harvard.edu/resources/handouts-tools/activities-guide-enhancing-and-practicing-executive-function-skills/",
+      "scope": "Developmentally organized activities; no guarantee of IQ or grade gains.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S05",
+      "title": "AAP: Help Your Child Enjoy Reading Aloud",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/Help-Your-Child-Enjoy-Reading-Aloud-Tips-for-Parents.aspx",
+      "scope": "Enjoyment, choice, and shared reading.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S06",
+      "title": "EEF: Metacognition and Self-Regulation",
+      "type": "United Kingdom · Education evidence synthesis",
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation/",
+      "scope": "Planning, monitoring, and evaluation within concrete tasks. School-study effects should not be assumed identical at home.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S07",
+      "title": "Ministry of Education: School–Family–Community Cooperation",
+      "type": "China · Policy guidance",
+      "url": "https://www.moe.gov.cn/srcsite/A06/s3325/202301/t20230119_1039746.html",
+      "scope": "Attention to differences, communication, cooperation, and habits. Policy guidance is not an intervention trial.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S08",
+      "title": "CDC: Understanding and Adapting Your Parenting",
+      "type": "United States · Parent guidance",
+      "url": "https://www.cdc.gov/parenting-teens/tips-understanding-and-adapting/index.html",
+      "scope": "Gradually shift from direct management toward supporting adolescent decisions.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S09",
+      "title": "CDC: Parental Monitoring",
+      "type": "United States · Public-health guidance",
+      "url": "https://www.cdc.gov/healthy-youth-parent-resources/positive-parental-practices/parental-monitoring.html",
+      "scope": "Knowing whereabouts and peers while maintaining connection.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S10",
+      "title": "AAP: How to Make a Family Media Use Plan",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/english/family-life/media/pages/how-to-make-a-family-media-use-plan.aspx",
+      "scope": "Consider content, family routines, communication, and effects on daily life.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S11",
+      "title": "AAP: Bullying—It’s Not OK",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx",
+      "scope": "Recognizing bullying and arranging adult protection and school cooperation.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S12",
+      "title": "AAP: School Avoidance",
+      "type": "United States · Health guidance",
+      "url": "https://www.healthychildren.org/english/health-issues/conditions/emotional-problems/pages/school-avoidance.aspx",
+      "scope": "Assess physical and emotional difficulties and cooperate with school; do not transplant US school laws.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S13",
+      "title": "NIMH: Child and Adolescent Mental Health",
+      "type": "United States · Mental-health information",
+      "url": "https://www.nimh.nih.gov/health/topics/child-and-adolescent-mental-health",
+      "scope": "Persistent symptoms and effects on functioning warrant support. Acute danger does not require waiting weeks.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S14",
+      "title": "NIMH: Frequently Asked Questions About Suicide",
+      "type": "United States · Mental-health information",
+      "url": "https://www.nimh.nih.gov/health/publications/suicide-faq",
+      "scope": "Direct questions and urgent help when needed. US crisis numbers are not transferred to other locations.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S15",
+      "title": "CDC: Concerned About Your Child’s Development?",
+      "type": "United States · Developmental guidance",
+      "url": "https://www.cdc.gov/act-early/families/concerned.html",
+      "scope": "Record concerns, seek evaluation, and act on loss of skills; not a diagnostic checklist.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S16",
+      "title": "Illinois DCFS: Talking to Your Child About Sexual Abuse",
+      "type": "United States · Child-protection guidance",
+      "url": "https://dcfs.illinois.gov/safe-kids/prevention/howtopreventchildsexualabuse/talking-to-your-child-about-sexual-abuse.html",
+      "scope": "Body boundaries and disclosure; adults remain responsible for protection.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S17",
+      "title": "CDC: Talking With Teens About Sex",
+      "type": "United States · Parent guidance",
+      "url": "https://www.cdc.gov/healthy-youth-parent-resources/conversation-tips/index.html",
+      "scope": "Ongoing, age-appropriate communication about sexual health.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S18",
+      "title": "AAP: Helping Teens Resist Sexual Pressure",
+      "type": "United States · Health guidance",
+      "url": "https://www.healthychildren.org/English/ages-stages/teen/dating-sex/Pages/Helping-Teens-Resist-Sexual-Pressure.aspx",
+      "scope": "Consent, pressure, and healthier sexual decisions; local laws and services require local verification.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S19",
+      "title": "AASM: Recommended Amount of Sleep for Pediatric Populations",
+      "type": "United States · Professional consensus",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4877308/",
+      "scope": "Age-based total sleep ranges per 24 hours, including naps for young children; individual health still matters.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S20",
+      "title": "AAP: Supporting Children After Separation or Divorce",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/English/healthy-living/emotional-wellness/Building-Resilience/Pages/How-to-Support-Children-after-Parents-Separate-or-Divorce.aspx",
+      "scope": "Predictable care and emotional support. Safety concerns change what cooperation is appropriate.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S21",
+      "title": "AAP: Toilet Training Resources",
+      "type": "United States · Parent guidance collection",
+      "url": "https://www.healthychildren.org/english/ages-stages/toddler/toilet-training/pages/default.aspx",
+      "scope": "Readiness, individual differences, and avoiding shame; persistent symptoms require clinical advice.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S22",
+      "title": "AAP: Problems With Peers",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/Problems-With-Peers.aspx",
+      "scope": "Understanding peer difficulties and supporting relationships; distinguish conflict from bullying.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S23",
+      "title": "AAP: Creating Positive Experiences for Teens",
+      "type": "United States · Parent guidance",
+      "url": "https://www.healthychildren.org/English/healthy-living/emotional-wellness/Building-Resilience/Pages/Creating-Positive-Experiences-for-Teens.aspx",
+      "scope": "Supportive relationships and opportunities for meaningful responsibility.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S24",
+      "title": "CDC: Healthy Routines for Parents and Caregivers",
+      "type": "United States · Public-health guidance",
+      "url": "https://www.cdc.gov/healthy-weight-growth/tips-parents-caregivers/index.html",
+      "scope": "Movement, food, and family routines; not individualized treatment or a weight-based judgment of children.",
+      "checked": "2026-10-26"
+    },
+    {
+      "id": "S25",
+      "title": "AAP: Sexual Behaviors in Young Children",
+      "type": "United States · Developmental guidance",
+      "url": "https://www.healthychildren.org/English/ages-stages/preschool/Pages/Sexual-Behaviors-Young-Children.aspx",
+      "scope": "Age-appropriate body curiosity and boundaries; concerning behavior needs suitable assessment, not shame.",
+      "checked": "2026-10-26"
+    }
+  ],
+  "ages": [
+    {
+      "id": "A01",
+      "age": 1,
+      "title": "Feel secure, then explore",
+      "focus": "Responsive interaction, shared attention, movement, and daily rhythms",
+      "kid": [
+        "I can use pointing, looking, and sounds to express needs; an adult can help put them into words.",
+        "I can handle safe objects, imitate actions, and look at pictures with someone."
+      ],
+      "parent": [
+        "Follow what interests your child, use short sentences, and wait for a response instead of continually testing them.",
+        "Use dressing, meals, and walks for interaction; put dangerous objects out of reach first.",
+        "Keep handovers between caregivers predictable. Adults must provide safety rather than expecting a toddler to remember every rule."
+      ],
+      "scenario": "Repeatedly throwing a spoon: consider whether your child is finished eating or exploring. Put utensils away safely, show where unwanted items go, and offer something safe to drop. Crying at separation: say a brief goodbye, hand over to a familiar adult, and reconnect warmly on return.",
+      "practice": "Notice one moment when your child points. Look at the same thing, name it, and wait for their response.",
+      "observe": "Look for easier communication and participation, not the number of written words recognized.",
+      "avoid": "Do not label crying as manipulation or expect a toddler to manage every emotion alone.",
+      "links": [
+        "C01",
+        "C02",
+        "H04"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A02",
+      "age": 2,
+      "title": "Let me try, while keeping clear limits",
+      "focus": "Autonomy, short instructions, and naming feelings",
+      "kid": [
+        "I can choose between two safe options.",
+        "I can practice saying “no” and “help”; adults can demonstrate when I cannot."
+      ],
+      "parent": [
+        "Give one instruction at a time, with a gesture and time to respond.",
+        "Allow extra time for eating independently or putting away one toy.",
+        "Allow feelings while immediately stopping hitting and dangerous behavior."
+      ],
+      "scenario": "Wanting a toy in a shop: acknowledge the wish and keep the purchasing decision consistent; move somewhere quieter if needed. Biting: separate the children, care for the injured child first, and teach “stop” or “help.” Never bite back.",
+      "practice": "Choose one daily task and let your child choose its order or the item to use.",
+      "observe": "Notice whether transitions become easier with support; the goal is not to eliminate all crying.",
+      "avoid": "Avoid offering a false choice about a necessary safety rule, or repeatedly changing a limit in response to crying.",
+      "links": [
+        "C02",
+        "C03",
+        "P02"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A03",
+      "age": 3,
+      "title": "Ask for help and gradually join group life",
+      "focus": "Starting preschool, self-care, taking turns, and communication",
+      "kid": [
+        "I can say “I need the toilet” or “Please help.”",
+        "My own belongings can have boundaries; shared items require taking turns."
+      ],
+      "parent": [
+        "Use pretend play to rehearse preschool routines and asking for help.",
+        "Ask staff what happens after goodbye, rather than judging only the tears at the door.",
+        "Handle toileting accidents calmly and practice according to readiness."
+      ],
+      "scenario": "Refusing preschool: use a consistent handover and investigate distress that continues during the day. Not lending a toy: distinguish personal from shared belongings, and put away treasured items before visitors arrive.",
+      "practice": "Act out: “I cannot open my water bottle; I can ask my teacher.”",
+      "observe": "Look for growing confidence in seeking a trusted adult and joining activities.",
+      "avoid": "Never threaten not to collect your child or force sharing to impress other adults.",
+      "links": [
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A04",
+      "age": 4,
+      "title": "Express feelings and begin making things right",
+      "focus": "Cooperation, emotions, and distinguishing events from imagination",
+      "kid": [
+        "I can say “I do not like that.”",
+        "After a mistake, I can help tidy up, return something, or care for someone with adult support."
+      ],
+      "parent": [
+        "Talk about characters’ feelings during stories without turning reading into an examination.",
+        "Describe what happened instead of calling your child bad, stupid, or a liar.",
+        "Teach correct names for body parts and how to seek help."
+      ],
+      "scenario": "Denying a spilled cup: do not set a trap; state what you saw and clean up together. Crying after losing a game: allow disappointment, stop throwing pieces, and rehearse ending a game once calm.",
+      "practice": "Practice one boundary sentence: “I am still playing. Please wait.”",
+      "observe": "Look for another way to communicate or repair a mistake, rather than expecting no mistakes.",
+      "avoid": "Do not expose embarrassing incidents publicly or use humiliation to make a lesson memorable.",
+      "links": [
+        "R03",
+        "R04",
+        "D03"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A05",
+      "age": 5,
+      "title": "Prepare everyday skills for school",
+      "focus": "Self-care, play rules, communication, and small completed tasks",
+      "kid": [
+        "I can organize my belongings and ask about things I do not understand.",
+        "I can finish one small step and then try the next."
+      ],
+      "parent": [
+        "Practice washing hands, toileting, dressing, and tidying with picture prompts if helpful.",
+        "Explore stories, counting, and construction play without turning every activity into an academic lesson.",
+        "Protect free play, movement, and rest; adapt tasks to current ability."
+      ],
+      "scenario": "Leaving a task unfinished: check difficulty and interest, then reduce it to a manageable step. Reluctance to write: reduce repetitive copying and use drawing or cutting activities; investigate persistent difficulties.",
+      "practice": "Make a picture card with three steps for leaving home, and let your child point to each completed step.",
+      "observe": "Notice communication and familiarity with routines, not how many schoolbooks have been completed early.",
+      "avoid": "School readiness is not the same as finishing the first-year curriculum in advance.",
+      "links": [
+        "L01",
+        "L02",
+        "H04"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A06",
+      "age": 6,
+      "title": "Settle into school through workable routines",
+      "focus": "School-based help, daily schedules, supplies, and starting work",
+      "kid": [
+        "I can tell an adult what I do not understand or where I feel unwell.",
+        "I can pack with a checklist and learn how to recover from forgetting something."
+      ],
+      "parent": [
+        "Attend to rest and physical needs before arranging homework.",
+        "Teach organization alongside your child, then gradually step back.",
+        "Check homework difficulty and expected duration with the teacher."
+      ],
+      "scenario": "Forgetting supplies: help resolve the immediate problem if necessary, then find the missing checklist step that evening. Crying over homework: distinguish confusion, fatigue, fear of errors, and handwriting demands; address one obstacle first.",
+      "practice": "Gather tomorrow’s belongings in one place and check them together tonight.",
+      "observe": "Look for clearer prompts and willingness to ask for help.",
+      "avoid": "Never withhold essential medicine, food, or safety equipment to “teach a lesson.”",
+      "links": [
+        "L01",
+        "L03",
+        "P03"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A07",
+      "age": 7,
+      "title": "Learn to begin without constant reminders",
+      "focus": "Starting tasks, checking work, and contributing at home",
+      "kid": [
+        "I can begin with the first small step.",
+        "I can complete an appropriate household task."
+      ],
+      "parent": [
+        "Agree on a starting point and use a visible checklist instead of repeated nagging.",
+        "Practice one habit at a time, such as reading instructions before writing.",
+        "Give specific feedback on strategies, rather than judging intelligence or carelessness."
+      ],
+      "scenario": "Slow homework: identify whether the barrier is starting, understanding, or writing, and change one key factor. Frequent reports about peers: check safety first; rehearse handling ordinary disagreements, but intervene in threats or harm.",
+      "practice": "Ask your child to name tonight’s first step, then wait until the agreed check-in.",
+      "observe": "Compare with their own recent experience and notice whether starting is easier.",
+      "avoid": "Do not interpret every lapse of attention as deliberate, or dismiss all requests for help.",
+      "links": [
+        "L03",
+        "L04",
+        "I01"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A08",
+      "age": 8,
+      "title": "Take responsibility without fearing honesty",
+      "focus": "Honesty, ownership, repair, and practical strategies",
+      "kid": [
+        "I can explain what really happened and help put it right.",
+        "I should ask before taking someone else’s belongings."
+      ],
+      "parent": [
+        "State facts without trick questions or labels.",
+        "Acknowledge honesty while still addressing unfinished work or damage.",
+        "Practice borrowing, returning, and managing belongings in small situations."
+      ],
+      "scenario": "Hiding unfinished homework: find the obstacle, plan completion, and consider whether adult anger encourages concealment. Taking something without permission: discuss privately, return it, and arrange appropriate repair; investigate repeated incidents.",
+      "practice": "Use one small mistake to demonstrate “explain—repair—plan for next time.”",
+      "observe": "Notice whether problems are reported sooner, not just whether the number of mistakes falls.",
+      "avoid": "Do not promise there will never be consequences for telling the truth, or punish more harshly after an admission.",
+      "links": [
+        "R03",
+        "R05",
+        "P02"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A09",
+      "age": 9,
+      "title": "Make friends while keeping personal boundaries",
+      "focus": "Friendship, self-evaluation, and resolving disagreements",
+      "kid": [
+        "I can invite someone to join me and accept that they may decline.",
+        "I do not have to face repeated targeting alone."
+      ],
+      "parent": [
+        "Listen to what happened and distinguish a disagreement from ongoing harm.",
+        "Offer different opportunities for connection rather than relying on one group.",
+        "Do not judge a friend’s worth by family income or grades."
+      ],
+      "scenario": "“Nobody likes me”: ask about specific situations and exceptions, then identify possible connections. Copying insults: explain their impact and practice alternatives; hurting others to fit in still requires intervention.",
+      "practice": "Practice an invitation: “Would you like to do this with me?”",
+      "observe": "Notice whether your child has someone to turn to and can express boundaries.",
+      "avoid": "Do not encourage giving money, tolerating humiliation, or doing others’ homework to buy friendship.",
+      "links": [
+        "R01",
+        "R02",
+        "R06"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A10",
+      "age": 10,
+      "title": "Begin planning and learn about body changes",
+      "focus": "Breaking tasks down, puberty, and media judgment",
+      "kid": [
+        "I can divide a large task into several sessions.",
+        "I can ask about body changes without being ashamed of curiosity."
+      ],
+      "parent": [
+        "Look at the real combined time needed for homework, activities, and rest.",
+        "Discuss body changes and hygiene calmly and provide privacy.",
+        "Before device use, agree on content, spending, and how to get help."
+      ],
+      "scenario": "An impossible schedule: check for overload and reduce adult-imposed demands too. Embarrassment about body changes: respond privately and do not discuss development in front of relatives.",
+      "practice": "Remove or reduce one unclear-benefit commitment that is crowding out rest.",
+      "observe": "Look for realistic plans and greater ease in asking questions.",
+      "avoid": "Do not blame all overload on inefficiency or postpone body education until something goes wrong.",
+      "links": [
+        "L05",
+        "D01",
+        "D03"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A11",
+      "age": 11,
+      "title": "Have privacy and negotiate rules",
+      "focus": "Privacy, self-acceptance, and discussion",
+      "kid": [
+        "I can disagree respectfully and explain why.",
+        "I can have personal space and still seek help."
+      ],
+      "parent": [
+        "Knock before entering and avoid sharing embarrassing stories or photos without permission.",
+        "Explain supervision in advance and give reasons for necessary safety intervention.",
+        "Comment less on appearance and pay more attention to physical feelings and daily functioning."
+      ],
+      "scenario": "Closing the bedroom door: invite conversation at a relaxed time and accept a temporary wish not to talk while staying connected. Appearance worries: listen and check for peer harassment; seek help for eating changes or other concerning signs.",
+      "practice": "Let your child choose one family rule to discuss and explain a proposed change.",
+      "observe": "Look for the ability to give reasons, not who argues more loudly.",
+      "avoid": "Privacy does not mean no supervision; supervision does not mean unlimited access.",
+      "links": [
+        "D04",
+        "H02",
+        "P04"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A12",
+      "age": 12,
+      "title": "Learn new ways to get support in a new setting",
+      "focus": "School transitions, study methods, and recognizing pressure",
+      "kid": [
+        "I can ask a teacher about the exact step I do not understand.",
+        "I can acknowledge that a plan is not working and needs changing."
+      ],
+      "parent": [
+        "Learn about classes, teachers, and support channels together.",
+        "Notice eating, sleep, friendships, interests, and mood as well as marks.",
+        "Use a brief regular check-in instead of questioning all day."
+      ],
+      "scenario": "Falling grades: examine foundations, changing demands, strategies, and wellbeing; address one important factor first. Arguing: allow disagreement while setting a mutual rule against insults, and return to the discussion when calm.",
+      "practice": "Identify one school contact and one question your child is willing to ask.",
+      "observe": "Notice earlier disclosure of difficulties and access to usable support.",
+      "avoid": "Do not treat one change in results as proof of laziness or future failure.",
+      "links": [
+        "L06",
+        "H01",
+        "P04"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A13",
+      "age": 13,
+      "title": "Give independence a reliable base",
+      "focus": "Identity, emotions, and peer pressure",
+      "kid": [
+        "I can make safe choices about interests and appearance.",
+        "I can refuse a risky invitation and contact an adult to leave."
+      ],
+      "parent": [
+        "Ask what interests mean to your child instead of mocking them.",
+        "Agree on destination, companions, contact arrangements, and return travel.",
+        "When help is requested, get them somewhere safe before reviewing what happened."
+      ],
+      "scenario": "“You do not understand”: ask what was missed instead of immediately defending yourself. Pressure to take risks: rehearse refusal, leaving, and contacting an adult; safety matters more than saving face.",
+      "practice": "Agree on a short message your child can use when they need to be collected.",
+      "observe": "Notice whether your child can contact you after a mistake or when frightened.",
+      "avoid": "Never refuse help with “I told you so,” or label every request for independence as rebellion.",
+      "links": [
+        "D05",
+        "P04",
+        "H02"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A14",
+      "age": 14,
+      "title": "Recognize healthy relationships and digital boundaries",
+      "focus": "Consent, respect, media, and privacy",
+      "kid": [
+        "I can like someone and still refuse contact or requests I do not want.",
+        "I must not control others through passwords, threats, or sharing private information."
+      ],
+      "parent": [
+        "Discuss relationships calmly without publicly interrogating private messages.",
+        "Explain consent, coercion, and getting help before a crisis arises.",
+        "Check whether night-time device use is displacing sleep and adjust together."
+      ],
+      "scenario": "Discovering a relationship: first consider respect, safety, power differences, and threats, then discuss daily arrangements. Requests for intimate images: stop sending and seek help; if something was already sent, do not blame the child—help prevent further harm.",
+      "practice": "Discuss: “If someone threatens me after I say no, whom can I contact?”",
+      "observe": "Look for recognition of respect and control, rather than judging solely by whether the child is dating.",
+      "avoid": "Do not humiliate, expose private information, or turn safety education into fear-based lectures.",
+      "links": [
+        "D02",
+        "D06",
+        "D01"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A15",
+      "age": 15,
+      "title": "Exams matter, and so does wellbeing",
+      "focus": "Pressure, achievable goals, recovery, and support",
+      "kid": [
+        "I can explain my worries and ask for useful help.",
+        "One result does not define my worth."
+      ],
+      "parent": [
+        "Turn goals into adjustable actions instead of repeatedly announcing success or failure.",
+        "Protect sleep, activity, and conversations unrelated to exams.",
+        "Investigate marked school avoidance or persistent low mood."
+      ],
+      "scenario": "“If I fail, everything is over”: recognize the pressure and discuss the exact fear and alternatives. Not attending school: investigate physical health, bullying, learning, and emotional factors rather than relying only on force or indefinite avoidance.",
+      "practice": "Ask for one unhelpful reminder you could stop and one useful form of support you could provide.",
+      "observe": "Look at functioning and distress; do not demand immediate cheerfulness.",
+      "avoid": "Do not make basic care, food, or sleep conditional on results.",
+      "links": [
+        "L06",
+        "H01",
+        "H03"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A16",
+      "age": 16,
+      "title": "Practice autonomy through real responsibilities",
+      "focus": "Risk judgment, budgeting, practical tasks, and accountability",
+      "kid": [
+        "I can manage some time and money and review the consequences.",
+        "When something is unsafe, I seek help before debating blame."
+      ],
+      "parent": [
+        "Teach cooking, travel planning, information checking, and other everyday skills.",
+        "Test important choices on a small scale rather than relying only on imagination.",
+        "Give outing rules reasons and review conditions instead of indefinite penalties."
+      ],
+      "scenario": "Wanting to stop a long-term activity: distinguish overload, setbacks, and a poor fit, then discuss a review period. Returning late without contact: confirm safety first, investigate the communication failure, and adjust future arrangements.",
+      "practice": "Let your child plan a low-risk outing, then check safety and a backup plan together.",
+      "observe": "Look for understanding of risks, costs, and support routes.",
+      "avoid": "It is unreasonable to deny practice opportunities and then expect instant maturity.",
+      "links": [
+        "I02",
+        "I03",
+        "D05"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A17",
+      "age": 17,
+      "title": "Use information and experience to make choices",
+      "focus": "Education and career exploration, practical administration, and financial limits",
+      "kid": [
+        "I can compare options, verify information, and acknowledge uncertainty.",
+        "I can contact organizations and seek qualified advice."
+      ],
+      "parent": [
+        "Explain available family resources and limits clearly.",
+        "Investigate courses, costs, and actual work rather than reputation alone.",
+        "Let your child manage materials and deadlines, with necessary adult review."
+      ],
+      "scenario": "Different views on a course or major: list reasons and check them against curricula and real experiences. Feeling directionless after a setback: restore everyday routines first, identify one near-term step, and seek help for serious distress.",
+      "practice": "Create a comparison of interests, courses, costs, risks, and alternative routes.",
+      "observe": "Look for choices supported by reasons; one decision need not settle an entire lifetime.",
+      "avoid": "Do not make your child responsible for fulfilling your unrealized ambitions.",
+      "links": [
+        "I04",
+        "L06",
+        "H02"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    },
+    {
+      "id": "A18",
+      "age": 18,
+      "title": "Continue support through adult cooperation",
+      "focus": "Autonomy, shared living, finances, and help-seeking",
+      "kid": [
+        "I can take responsibility for decisions and still ask for reasonable support.",
+        "Shared living requires discussion of chores, costs, and boundaries."
+      ],
+      "parent": [
+        "Replace commands with agreements about the scope and duration of support.",
+        "Respect correspondence and relationships; financial support must not become total control.",
+        "Teach recovery and help-seeking instead of withdrawing all support abruptly at adulthood."
+      ],
+      "scenario": "Different lifestyles: separate personal preferences from effects on shared living. Returning for help after a poor decision: address safety and urgent losses, then involve the young adult in manageable repair.",
+      "practice": "Agree on one responsibility to transfer gradually and the support still available.",
+      "observe": "Notice autonomy and accountability developing together, rather than obedience alone.",
+      "avoid": "Adulthood does not mean knowing everything, nor does it require parents to absorb every consequence.",
+      "links": [
+        "I03",
+        "I04",
+        "P05"
+      ],
+      "evidence": "Editorial organization: ages are navigation aids, not developmental tests. See the linked entries for supporting guidance."
+    }
+  ],
+  "cards": [
+    {
+      "id": "P01",
+      "topic": "Growing as a parent",
+      "title": "Pause your own anger before addressing the problem",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "No purchase needed; adults need to practice pausing and arranging safe handovers.",
+      "goal": "Return the conflict to a state where discussion is possible, rather than demand immediate obedience.",
+      "kid": [
+        "I can tell an adult, “Your shouting frightens me.”",
+        "I am not responsible for calming adults. If I fear being hurt, I can seek safety and a trusted adult."
+      ],
+      "parent": [
+        "When your voice rises or you feel like hitting, stop the lecture and ensure the child is safely supervised.",
+        "Ask a reliable adult to take over, or calm yourself at a distance that still keeps a young child safe.",
+        "Return to one issue only. Own your loss of control instead of blaming the child."
+      ],
+      "example": "“I shouted too loudly. That was my responsibility. Let us start again and work out what to do about the broken cup.”",
+      "avoid": "Never shake, hit, insult, or threaten abandonment. A pause must not become days of silent treatment.",
+      "review": "Note one trigger and arrange an earlier break, handover, or change next time.",
+      "escalate": "If harm is likely or has occurred, protect the child and obtain outside support; seek medical care for injuries.",
+      "refs": [
+        "S01"
+      ],
+      "basis": "The source supports avoiding physical punishment and humiliation. The pause and review wording is editorial.",
+      "related": [
+        "P05",
+        "H03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "P02",
+      "topic": "Growing as a parent",
+      "title": "Turn rules into actions a child can understand",
+      "min": 2,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "No purchase needed; change only one or two rules at a time and discuss briefly.",
+      "goal": "Make expectations, alternatives, and repair clear.",
+      "kid": [
+        "I can repeat the rule and explain what I find difficult.",
+        "I can help suggest a solution and repair a mistake."
+      ],
+      "parent": [
+        "Replace “Be sensible” with “Ask before borrowing and return it afterward.”",
+        "Explain why: use short words and demonstrations for toddlers and discussion with older children.",
+        "Consequences should be related, proportionate, and recoverable: clean a spill or help repair damage."
+      ],
+      "example": "“You may dislike your brother touching the blocks, but you may not throw them at him. Let us set aside your building area and say, ‘I am not finished.’”",
+      "avoid": "Do not withhold food, sleep, medical care, or basic affection. Do not teach safety through dangerous trial and error.",
+      "review": "Check whether the rule is understandable and consistently followed by adults.",
+      "escalate": "For persistent intense conflict, investigate ability, stress, and environment instead of simply increasing punishment.",
+      "refs": [
+        "S02"
+      ],
+      "basis": "The source supports age-appropriate rules and nonviolent guidance; particular consequences require individual judgment.",
+      "related": [
+        "C03",
+        "R04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "P03",
+      "topic": "Growing as a parent",
+      "title": "Teach the routine before reducing reminders",
+      "min": 3,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Paper and a pen are enough; initially an adult needs to practice alongside the child.",
+      "goal": "Make a task visible instead of relying on memory and repeated prompting.",
+      "kid": [
+        "I can follow pictures or a checklist and point out where I get stuck.",
+        "I can help remove unnecessary steps."
+      ],
+      "parent": [
+        "Choose one situation, such as leaving home: collect belongings, check, and put on shoes.",
+        "Do it together a few times, then let the child lead with only necessary prompts.",
+        "Repeated failure calls for checking excessive steps, inaccessible supplies, or insufficient time before blaming."
+      ],
+      "example": "“Look at the checklist first. Which part needs my help?”",
+      "avoid": "A checklist should not become another daily fault-finding tool; overly complex lists add burden.",
+      "review": "Review after a trial week: what helped and what should go? A week is a practical review point, not a proven treatment period.",
+      "escalate": "If age-appropriate tasks remain markedly difficult across settings, consult teachers or appropriate professionals.",
+      "refs": [
+        "S04"
+      ],
+      "basis": "The source supports practicing self-management through activities. This checklist is an adaptation, not a separately validated program.",
+      "related": [
+        "L03",
+        "I01"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "P04",
+      "topic": "Growing as a parent",
+      "title": "Ask whether your child wants listening or help solving",
+      "min": 6,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "No purchase needed; set aside a period without interruptions.",
+      "goal": "Make it easier to disclose real concerns and reduce unhelpful lectures.",
+      "kid": [
+        "I can say “Please listen first,” “I want advice,” or “Can we talk later?”",
+        "I can disagree without insulting or threatening."
+      ],
+      "parent": [
+        "Hear the event out and check your understanding in your own words.",
+        "When advice is wanted, offer a few options and involve the child in choosing.",
+        "If conflict escalates, agree on a pause and a return time; avoid pursuing the argument or indefinite silence."
+      ],
+      "example": "“Would you like me to listen, or help you think about the next step? I can listen first.”",
+      "avoid": "Do not turn every disclosure into a grade check or promise absolute secrecy about danger.",
+      "review": "Notice willingness to make contact, not just whether advice is accepted.",
+      "escalate": "If harm, threats, or serious distress are disclosed, explain the need for protection and support.",
+      "refs": [
+        "S23"
+      ],
+      "basis": "The source supports listening and respecting privacy; the sample question is not a clinical intervention.",
+      "related": [
+        "D04",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "P05",
+      "topic": "Growing as a parent",
+      "title": "Share caregiving; do not make children manage adult emotions",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "A discussion of responsibilities and possibly family or community support.",
+      "goal": "Reduce caregiver overload and clarify who can help the child.",
+      "kid": [
+        "I can express my needs without earning adult happiness by being “good.”",
+        "Adult arguments are not my responsibility; I can seek a reliable person’s help."
+      ],
+      "parent": [
+        "List transport, school support, night care, housework, and rest, and assign them to capable adults.",
+        "With grandparents, privately agree on safety limits and main routines while allowing harmless differences in style.",
+        "When coping becomes unsustainable, seek adult and professional support and reduce demands."
+      ],
+      "example": "“I will handle transport this week; you will handle school communication. When we are exhausted, we will simplify rather than take it out on our child.”",
+      "avoid": "Children must not become a parent’s therapist or carry accusations between adults.",
+      "review": "Check for a caregiver who never rests or agreements that merely shift blame.",
+      "escalate": "For family violence, threats, or inability to provide safe care, prioritize outside protection and professional support.",
+      "refs": [
+        "S07"
+      ],
+      "basis": "The source supports adult modeling and caregiving responsibility; the division-of-work template is editorial.",
+      "related": [
+        "P01",
+        "P06"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "P06",
+      "topic": "Growing as a parent",
+      "title": "Explain care arrangements during separation or divorce",
+      "min": 1,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Several short conversations; professional support may have a cost.",
+      "goal": "Reduce uncertainty about care and misplaced responsibility.",
+      "kid": [
+        "My parents’ separation is not my fault or something I have to fix.",
+        "I may love people who care for me safely without choosing sides."
+      ],
+      "parent": [
+        "Explain housing, collection, contact, and near-term changes at the child’s level, without adult relationship details.",
+        "Keep care predictable; do not use the child to deliver messages, spy, or judge the other parent.",
+        "Both parents’ involvement depends on safety. Violence or coercion requires protective arrangements first."
+      ],
+      "example": "“This is an adult decision, not your fault. Next week you will stay here, and this is the collection plan. We will explain changes in advance.”",
+      "avoid": "Do not promise an uncertain reunion or force unsafe contact because a child supposedly needs both parents.",
+      "review": "Check whether the child knows who will care for them tomorrow and can voice concerns.",
+      "escalate": "Seek support for persistent withdrawal, aggression, sleep problems, or impaired daily life; address immediate danger at once.",
+      "refs": [
+        "S20"
+      ],
+      "basis": "The source supports reducing parental conflict and providing stable care, subject to safe caregiving.",
+      "related": [
+        "H02",
+        "P05"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C01",
+      "topic": "Everyday life with young children",
+      "title": "Respond to a toddler’s interest instead of continually testing",
+      "min": 1,
+      "max": 3,
+      "priority": "Build the foundations",
+      "cost": "Use existing toys, books, and everyday objects; no course is required.",
+      "goal": "Create more back-and-forth interaction and understand communication.",
+      "kid": [
+        "I express myself with looks, movements, and sounds; adults can wait for me.",
+        "I do not need to answer correctly to receive a response."
+      ],
+      "parent": [
+        "Notice the child’s focus, move closer, and make a short relevant comment.",
+        "Pause, accept a gesture, sound, or expression, and respond in turn.",
+        "Follow changes in interest and reduce repeated “What is this?” questions."
+      ],
+      "example": "The child points to a dog. Say, “The dog is running,” and wait rather than immediately testing color, number, or vocabulary.",
+      "avoid": "Do not turn interaction into a brain-development quota or substitute videos for conversation.",
+      "review": "Notice more natural exchanges and opportunities for the child to initiate.",
+      "escalate": "Seek assessment for concerns about hearing, language, movement, or interaction rather than only increasing practice.",
+      "refs": [
+        "S03"
+      ],
+      "basis": "The source supports responsive exchanges; it does not prescribe minutes of practice or guarantee an outcome.",
+      "related": [
+        "H04",
+        "L02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C02",
+      "topic": "Everyday life with young children",
+      "title": "Help a distressed young child settle while keeping limits clear",
+      "min": 1,
+      "max": 6,
+      "priority": "Use when needed",
+      "cost": "No purchase needed; a caregiver must remain available.",
+      "goal": "Get through the peak safely, then practice expressing needs.",
+      "kid": [
+        "I can feel sad, cry, or gesture for a cuddle.",
+        "I gradually learn to say “I want” and “I need help.”"
+      ],
+      "parent": [
+        "Check tiredness, hunger, pain, and excessive stimulation, and ensure safety.",
+        "Use few words and acknowledge feelings; do not reverse a purchase decision simply because of crying.",
+        "Once calm, demonstrate one alternative and give advance notice of the next transition."
+      ],
+      "example": "“You want to keep playing; leaving is hard. It is time to go home. I can hold your hand or carry you.”",
+      "avoid": "Do not film distress to shame the child or threaten abandonment; do not dismiss possible pain as stubbornness.",
+      "review": "Review triggers and consider earlier rest, shorter waits, or clearer endings.",
+      "escalate": "Seek help for frequent severe distress, injuries, or difficulties across settings; unusual pain needs medical attention.",
+      "refs": [
+        "S02"
+      ],
+      "basis": "The source supports age-appropriate guidance and adapting situations, not an instant way to stop crying.",
+      "related": [
+        "C03",
+        "P01"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C03",
+      "topic": "Everyday life with young children",
+      "title": "Stop hitting or biting, then teach another response",
+      "min": 1,
+      "max": 8,
+      "priority": "Use when needed",
+      "cost": "No purchase needed; prompt adult intervention and repeated demonstrations are necessary.",
+      "goal": "Protect the person hurt and practice usable communication.",
+      "kid": [
+        "I can say “stop,” “mine,” or “help”; I may not hurt someone.",
+        "An adult can help me care about the injured person."
+      ],
+      "parent": [
+        "Block an attack or separate children, move dangerous objects, and care for the injured person first.",
+        "State the boundary briefly rather than lecturing during peak distress.",
+        "Check competition, fatigue, and communication barriers; later practice words and adjust the environment."
+      ],
+      "example": "“I will not let you hit. If you want the toy back, say ‘Please give it back.’ I will help.”",
+      "avoid": "Do not hit back, demand immediate forgiveness, or force a reconciliation hug.",
+      "review": "Track circumstances, harmful behavior, and alternative responses, not merely apologies.",
+      "escalate": "Obtain medical care when needed; persistent severe aggression requires assessment of causes.",
+      "refs": [
+        "S01"
+      ],
+      "basis": "The source supports nonviolent discipline; the immediate protection-and-teaching sequence is editorial.",
+      "related": [
+        "R04",
+        "R02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C04",
+      "topic": "Everyday life with young children",
+      "title": "Use predictable preschool handovers and investigate difficulties",
+      "min": 2,
+      "max": 6,
+      "priority": "Use when needed",
+      "cost": "Communication with staff; no separation-training product is needed.",
+      "goal": "Clarify who will care for the child, when reunion happens, and how adjustment is going.",
+      "kid": [
+        "I can miss home and ask my teacher for help.",
+        "I can know what happens next instead of suddenly finding my parent gone."
+      ],
+      "parent": [
+        "Become familiar with the setting and caregiver and rehearse goodbye in play.",
+        "Use a brief clear handover, not a secret exit; explain collection using events the child understands.",
+        "Ask about participation after arrival and check meals, toileting, peers, and caregiving."
+      ],
+      "example": "“After your nap and afternoon activities, I will collect you. Your teacher will help you put away your bottle now.”",
+      "avoid": "Tears at the door do not alone mean failure; prolonged fear is not simply something to endure.",
+      "review": "Review recovery and participation during the day and adjust to actual experience.",
+      "escalate": "Investigate persistent distress, regression, injury, or fear of a particular person and obtain support.",
+      "refs": [
+        "S02"
+      ],
+      "basis": "The source supports developmentally appropriate care; this handover is a practical example, not an adjustment deadline.",
+      "related": [
+        "H01",
+        "H04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C05",
+      "topic": "Everyday life with young children",
+      "title": "Practice toileting according to readiness, without shame",
+      "min": 2,
+      "max": 6,
+      "priority": "Use when needed",
+      "cost": "Suitable facilities, spare clothing, and caregiving time.",
+      "goal": "Support awareness of bodily needs, communication, and participation in hygiene.",
+      "kid": [
+        "I can tell an adult I need the toilet and ask for help after an accident.",
+        "An accident does not make me bad."
+      ],
+      "parent": [
+        "Consider physical, understanding, and communication readiness; provide safe facilities and a simple routine.",
+        "Demonstrate calmly and proceed gradually. Clean and change after accidents without an audience or ridicule.",
+        "Treat daytime and night-time progress separately; discuss pain or constipation with a clinician."
+      ],
+      "example": "“Your trousers are wet. Let us change them. Next time you feel it, you can call me.”",
+      "avoid": "Do not punish, mock, or arbitrarily restrict normal fluids to prevent accidents.",
+      "review": "Notice situations that cause difficulty and adjust support instead of comparing peers.",
+      "escalate": "Seek medical advice for pain, bleeding, marked constipation, or repeated regression after stable progress.",
+      "refs": [
+        "S21"
+      ],
+      "basis": "The source addresses physical and cognitive readiness; this guide sets no universal completion age.",
+      "related": [
+        "H04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "C06",
+      "topic": "Everyday life with young children",
+      "title": "Distinguish personal belongings from shared resources",
+      "min": 2,
+      "max": 9,
+      "priority": "Use when needed",
+      "cost": "No purchase needed; a little preparation before visitors.",
+      "goal": "Practice ownership boundaries, turn-taking, and asking.",
+      "kid": [
+        "I can decide whether to lend a treasured personal item.",
+        "Shared resources require turns; others may also refuse to lend personal belongings."
+      ],
+      "parent": [
+        "Put away items the child does not want to lend and prepare things suitable for shared play.",
+        "Agree on turns for common resources, with adult help as needed.",
+        "Describe both needs during a dispute instead of always making the older child yield."
+      ],
+      "example": "“The bear is yours, so you may choose not to lend it. This swing is shared; after this turn, someone else has a turn.”",
+      "avoid": "Do not force generosity or let a personal boundary justify monopolizing shared resources.",
+      "review": "Look for clearer asking, waiting, refusal, and acceptance of refusal.",
+      "escalate": "Adults must intervene and change arrangements when there is repeated grabbing, threats, or injury.",
+      "refs": [],
+      "basis": "Practical suggestion for learning boundaries; this particular turn-taking plan is not claimed to have independent outcome evidence.",
+      "related": [
+        "R04",
+        "R05"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "L01",
+      "topic": "Learning and school",
+      "title": "Prepare everyday skills and help-seeking for school",
+      "min": 4,
+      "max": 7,
+      "priority": "Build the foundations",
+      "cost": "Everyday practice is enough; an expensive preparation package is unnecessary.",
+      "goal": "Help the child enter a new environment and express needs.",
+      "kid": [
+        "I can say I do not understand, feel unwell, or need the toilet.",
+        "I can practice organizing what I bring."
+      ],
+      "parent": [
+        "Learn the school routine, toilets, collection process, and whom to ask for help.",
+        "Practice dressing, washing, eating, and managing belongings with appropriate assistance.",
+        "Keep reading, play, and movement, and discuss academic preparation with the school."
+      ],
+      "example": "Rehearse with a toy: “Teacher, I cannot open my bottle. Please help.”",
+      "avoid": "Do not make early word recognition the only criterion or portray school as a place of punishment.",
+      "review": "Notice help-seeking knowledge and increasing familiarity with routines.",
+      "escalate": "Discuss support early with school and professionals when developmental or learning difficulties persist.",
+      "refs": [
+        "S07"
+      ],
+      "basis": "The source supports broad development and family–school cooperation; the preparation checklist is editorial.",
+      "related": [
+        "P03",
+        "H04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L02",
+      "topic": "Learning and school",
+      "title": "Give reading room for choice rather than testing every page",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Borrow books or use existing materials; short sessions are a valid starting point.",
+      "goal": "Preserve interest and create opportunities for shared understanding.",
+      "kid": [
+        "I can choose suitable books and reread favorites.",
+        "I may ask questions without having to write a report every time."
+      ],
+      "parent": [
+        "With young children, explore pictures and stories by following interest; shared reading can continue after independent reading begins.",
+        "Allow suitable comics, stories, and informational books while considering content and understanding.",
+        "Discuss interesting moments rather than testing after each session; older children may also read privately."
+      ],
+      "example": "“What makes you want to turn the page? Tell me if you like, or we can just keep reading.”",
+      "avoid": "Do not dismiss all preferred books as useless or make parental approval depend on a book count.",
+      "review": "Notice willingness to read and access to material at a suitable level.",
+      "escalate": "For persistent decoding or comprehension difficulties affecting learning, consult teachers and seek assessment instead of only assigning more reading.",
+      "refs": [
+        "S05"
+      ],
+      "basis": "The source supports enjoyment, choice, and reading together; no grade increase is promised.",
+      "related": [
+        "L07"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L03",
+      "topic": "Learning and school",
+      "title": "Find the homework obstacle before demanding speed",
+      "min": 6,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "One observation and a short discussion; extra classes need not be the first step.",
+      "goal": "Turn “procrastination” into a specific difficulty that can be addressed.",
+      "kid": [
+        "I can identify a confusing step and try a small start.",
+        "I can ask for agreed help instead of hiding unfinished work."
+      ],
+      "parent": [
+        "Identify difficulty with starting, understanding, handwriting, fear of errors, or overload.",
+        "Change one factor: prepare materials, break down a step, teach missing knowledge, or discuss unreasonable load with school.",
+        "Agree on help and check-in times, gradually reducing close monitoring."
+      ],
+      "example": "“Have you not started yet, or are you unsure how? Let us mark what the question asks first.”",
+      "avoid": "Do not impose late-night copying, do the work yourself, or blame every error on attitude.",
+      "review": "Compare difficulty and time on similar tasks; changing task loads make simple speed comparisons misleading.",
+      "escalate": "Contact teachers and relevant professionals for persistent excessive duration, distress, or difficulties across settings.",
+      "refs": [
+        "S06"
+      ],
+      "basis": "The source supports planning and monitoring in concrete tasks; the homework checklist is a practical adaptation.",
+      "related": [
+        "L04",
+        "L07",
+        "H05"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L04",
+      "topic": "Learning and school",
+      "title": "Use checking to understand your learning method",
+      "min": 7,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Existing work and paper; practice one step at a time.",
+      "goal": "Build a cycle of planning, trying, checking, and adjusting.",
+      "kid": [
+        "Before starting I ask what is required; afterward I notice where I got stuck.",
+        "I can explain a method rather than merely copy the right answer."
+      ],
+      "parent": [
+        "Model reading requirements, selecting a method, and noticing errors.",
+        "Ask the child to explain one problem or summarize a point, then teach the specific knowledge needed.",
+        "Review representative errors and try again later instead of repeatedly copying everything."
+      ],
+      "example": "“Which method did you use? What step would help you check whether the answer makes sense?”",
+      "avoid": "Do not turn metacognition into an expensive generic brain-training product; missing knowledge needs teaching.",
+      "review": "Look for clearer explanation and use on similar tasks, not the thickness of notes.",
+      "escalate": "Persistent reading, writing, calculation, or comprehension difficulties call for learning support.",
+      "refs": [
+        "S06"
+      ],
+      "basis": "The review supports planning, monitoring, and evaluation within curriculum content; these exercises are not equivalent to a complete studied intervention.",
+      "related": [
+        "L07",
+        "L08"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L05",
+      "topic": "Learning and school",
+      "title": "Before enrolling, check the aim, burden, and exit conditions",
+      "min": 4,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "A family discussion; it may reduce spending and travel.",
+      "goal": "Match learning commitments to needs, interests, and resources.",
+      "kid": [
+        "I can explain what I like, dislike, and find exhausting.",
+        "I can take part in a short trial and discuss continuing."
+      ],
+      "parent": [
+        "State the actual aim: exploring an interest, addressing a specific gap, or another need.",
+        "Count lessons, homework, travel, and rest together, protecting basic daily needs.",
+        "Check content and teaching and agree on review points, fees, and an exit rather than relying on advertising."
+      ],
+      "example": "“Let us try a suitable short arrangement and review what you learn, whether you want to continue, and whether you still rest enough.”",
+      "avoid": "“Everyone else enrolls” is insufficient; avoid promises of guaranteed scores or genius development.",
+      "review": "Review participation, load, and goals rather than forcing continuation because money has already been spent.",
+      "escalate": "Reduce demands and investigate when fatigue, emotions, or physical health are affected.",
+      "refs": [],
+      "basis": "Practical decision checklist, not a judgment on all extracurricular programs or a financial-return promise.",
+      "related": [
+        "H05",
+        "I04"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "L06",
+      "topic": "Learning and school",
+      "title": "Understand a change in grades, then choose one improvement",
+      "min": 8,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "A calm conversation and, if needed, communication with school.",
+      "goal": "Turn evaluation into action without letting one result define the child.",
+      "kid": [
+        "I can feel disappointed and analyze later when calmer.",
+        "I can distinguish missing knowledge, an unsuitable method, and poor wellbeing."
+      ],
+      "parent": [
+        "Acknowledge feelings without public ranking or humiliation.",
+        "Check assessment difficulty, foundations, strategies, and physical and emotional state.",
+        "Choose one actionable change and a review point, and discuss paths available under different outcomes."
+      ],
+      "example": "“You are disappointed. Let us find one useful thing to work on; we do not have to solve everything tonight.”",
+      "avoid": "Do not say failure ruins a life or substitute vague encouragement for practical help.",
+      "review": "Review knowledge gaps and daily functioning, not just the next score.",
+      "escalate": "For marked hopelessness, persistent sleep problems, or safety risks, prioritize professional support.",
+      "refs": [
+        "S07"
+      ],
+      "basis": "The source supports individual differences and realistic goals; the assessment review is editorial.",
+      "related": [
+        "H02",
+        "H03",
+        "I04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L07",
+      "topic": "Learning and school",
+      "title": "Seek support for persistent learning difficulties without labels",
+      "min": 5,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Teacher communication; assessment may take time and money.",
+      "goal": "Clarify whether teaching needs adjustment or further assessment is appropriate.",
+      "kid": [
+        "Learning slowly does not mean I am lazy or less valuable.",
+        "I can say which explanation, tool, or setting helps me."
+      ],
+      "parent": [
+        "Record specific difficulties and situations rather than “not trying”; consider reading, writing, mathematics, hearing, vision, and attention.",
+        "Discuss classroom functioning and try clear steps, reasonable workloads, and necessary accommodations.",
+        "Seek suitable assessment for persistent impact rather than diagnosing from home observations."
+      ],
+      "example": "“We are not putting you on trial. We want to find an approach that works for you.”",
+      "avoid": "Do not promise that one training product fixes everything or remove all interests as punishment.",
+      "review": "Track functioning with support and set goals suited to the individual.",
+      "escalate": "Promptly assess loss of skills or accompanying physical or emotional changes.",
+      "refs": [
+        "S15"
+      ],
+      "basis": "The source supports acting on developmental concerns; different learning problems require appropriate professional pathways.",
+      "related": [
+        "H04",
+        "L03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "L08",
+      "topic": "Learning and school",
+      "title": "Keep your own thinking and honesty when using answers or AI",
+      "min": 10,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Existing learning materials are sufficient; no new paid tool is required.",
+      "goal": "Use assistance to support understanding rather than conceal confusion.",
+      "kid": [
+        "I try first, then ask for a hint and acknowledge outside help as required.",
+        "I do not upload classmates’ private information, family documents, or sensitive details."
+      ],
+      "parent": [
+        "Check school rules and tool age requirements; do not bypass unmet conditions.",
+        "Ask for explanations or hints, then use a similar independent task to check understanding.",
+        "Explain that outputs may be wrong; verify facts with reliable sources and be honest about authorship and assistance."
+      ],
+      "example": "“Show me how far you got first, then choose the hint you need. Finally, explain it in your own way.”",
+      "avoid": "Do not rely on AI as the sole support for a psychological crisis or confuse a finished generated answer with learning.",
+      "review": "Check performance away from the tool and real understanding, not merely polished work.",
+      "escalate": "Use appropriate safety and professional support for online manipulation, privacy breaches, or serious distress.",
+      "refs": [],
+      "basis": "Editorial practice suggestion: tools change rapidly, and no independent effectiveness study of this exact workflow is claimed.",
+      "related": [
+        "D02",
+        "L04"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "R01",
+      "topic": "Peers and responsibility",
+      "title": "When bullying occurs, protect, document, and follow up",
+      "min": 5,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Adult time is needed; medical or professional support may cost money.",
+      "goal": "Stop harm and retaliation and make help-seeking lead to real protection.",
+      "kid": [
+        "Being bullied is not my fault; I can leave and ask for help.",
+        "I do not have to prove myself by winning a fight or enduring alone."
+      ],
+      "parent": [
+        "Listen seriously and check safety and injuries instead of asking why the child was singled out.",
+        "Record when, where, what happened, and its effects; keep necessary evidence and agree with school on protection, responsibility, and follow-up.",
+        "Check for retaliation or a move online; do not force confrontation or reconciliation."
+      ],
+      "example": "“You did the right thing by telling me. We will handle this together, starting with your safety tomorrow.”",
+      "avoid": "Do not dismiss a serious single violent incident as play, or publicly spread evidence that causes further harm.",
+      "review": "Check that harm has stopped and safe arrangements exist; an apology alone does not complete the response.",
+      "escalate": "For current violence, extortion, sexual abuse, or serious threats, seek appropriate protection immediately and obtain medical care for injuries.",
+      "refs": [
+        "S11"
+      ],
+      "basis": "The source supports listening, protection, and adult intervention; actual school processes depend on location.",
+      "related": [
+        "R02",
+        "D02",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "R02",
+      "topic": "Peers and responsibility",
+      "title": "Act promptly when your own child harms someone",
+      "min": 5,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Ongoing cooperation between home and school.",
+      "goal": "Stop harm, arrange repair, and change contributing conditions.",
+      "kid": [
+        "Even if I dislike someone, I must not humiliate, exclude, or threaten them.",
+        "I can acknowledge facts, stop sharing harmful content, and help make reasonable repairs."
+      ],
+      "parent": [
+        "Stop the behavior, protect those affected, and establish facts without automatically defending the child.",
+        "Privately explore peer pressure, status, or the child’s own harmful experiences without treating causes as excuses.",
+        "Agree with school on supervision and repair, respecting the other person’s choice not to engage or forgive."
+      ],
+      "example": "“I will support you in changing, but I will not excuse the harm. First, it must stop.”",
+      "avoid": "Do not teach respect through violence or insist that the other person accept a public apology.",
+      "review": "Check that the behavior truly stops rather than changing targets or form.",
+      "escalate": "Persistent serious harm, threats, or coercion requires school and professional intervention.",
+      "refs": [
+        "S11"
+      ],
+      "basis": "The source supports stopping bullying, setting limits, and addressing underlying difficulties.",
+      "related": [
+        "P02",
+        "R04"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "R03",
+      "topic": "Peers and responsibility",
+      "title": "Make room for the truth when a child hides something",
+      "min": 4,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "A calm conversation and a repair plan.",
+      "goal": "Combine honesty with responsibility.",
+      "kid": [
+        "I can explain what happened and what I fear.",
+        "Telling the truth may still require completing or returning something, but should not lead to humiliation."
+      ],
+      "parent": [
+        "Distinguish imagination, inaccurate memory, and concealment; state known facts directly.",
+        "Ask about fears and difficulties and acknowledge willingness to explain.",
+        "Address related consequences and consider whether adults react explosively to small errors or ask children to lie."
+      ],
+      "example": "“I know the work has not been submitted. What reaction are you worried about? Let us understand first, then plan how to put it right.”",
+      "avoid": "Do not trap a child into a confession or define them as permanently untrustworthy.",
+      "review": "Look for earlier disclosure and completed repair.",
+      "escalate": "Investigate further when repeated concealment involves danger, coercion, or unexplained changes.",
+      "refs": [],
+      "basis": "Practical suggestion: it cannot guarantee an end to concealment and does not treat every hidden matter as a moral failing.",
+      "related": [
+        "L03",
+        "P01"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "R04",
+      "topic": "Peers and responsibility",
+      "title": "Practice repairing harm instead of forcing a quick apology",
+      "min": 3,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Some conversation and concrete action.",
+      "goal": "Understand effects, restore what is needed, and learn an alternative response.",
+      "kid": [
+        "I can name my action and ask what reasonable repair is needed.",
+        "Someone may not forgive me immediately; I still need to stop the harm."
+      ],
+      "parent": [
+        "First establish safety and calm, then explain impact without public judgment.",
+        "Offer age-appropriate repair: clean, return, redo, or compensate reasonably; young children work alongside adults.",
+        "Practice asking or leaving differently next time and follow up on action."
+      ],
+      "example": "“Those words hurt. Besides apologizing, how can you stop their spread and make things right?”",
+      "avoid": "An apology is not a password that removes consequences; do not force hugging.",
+      "review": "Look at actual repair and changed behavior, not the volume of the apology.",
+      "escalate": "With serious threats, harm, or unequal power, do not automatically assign equal blame.",
+      "refs": [],
+      "basis": "Practical suggestion adapted to ability and safety; it does not replace formal handling of harmful incidents.",
+      "related": [
+        "R01",
+        "R02"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "R05",
+      "topic": "Peers and responsibility",
+      "title": "Check permission before taking belongings or spending",
+      "min": 5,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Household belongings and limited spending resources are enough.",
+      "goal": "Understand ownership, authorization, and borrowing responsibilities.",
+      "kid": [
+        "Wanting something does not permit taking it; knowing a password does not authorize spending.",
+        "If I take or use something without permission, I should explain and help return or repair it."
+      ],
+      "parent": [
+        "Establish facts privately and distinguish misunderstanding, impulse, peer pressure, and repeated behavior.",
+        "Return items or address loss, set age-appropriate payment safeguards, and teach permission routines.",
+        "Investigate repeated incidents rather than merely increasing punishment."
+      ],
+      "example": "“This belongs to someone else, so we will return it. Why did you take it? What could you do next time?”",
+      "avoid": "Do not publicly call the child a thief or use age as a reason to ignore another person’s loss.",
+      "review": "Check that return and authorization procedures are actually followed.",
+      "escalate": "Seek suitable help for coercion, fraud, substantial losses, or persistent behavior.",
+      "refs": [],
+      "basis": "Practical suggestion; this entry does not classify legal offenses or guarantee refunds.",
+      "related": [
+        "I02",
+        "D02",
+        "R03"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "R06",
+      "topic": "Peers and responsibility",
+      "title": "Reach out to friends without buying acceptance",
+      "min": 6,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Use school, interest, and community opportunities without requiring purchases.",
+      "goal": "Build connections, accept differences, and recognize unhealthy exchanges.",
+      "kid": [
+        "I can invite others and accept a refusal.",
+        "I do not have to give money, do homework, or tolerate humiliation to keep a friend."
+      ],
+      "parent": [
+        "Listen to the particular incident and distinguish a refusal, a disagreement, and ongoing exclusion.",
+        "Rehearse conversation and invitations and offer several safe social settings.",
+        "Respect temperament instead of requiring popularity or extroversion; involve teachers in persistent difficulties."
+      ],
+      "example": "“You were sad when they did not play today. Is there another person or activity where you feel comfortable?”",
+      "avoid": "Do not decide the worth of every friend for the child or merely tell them not to care.",
+      "review": "Look for one or two usable connections and how the child experiences relationships.",
+      "escalate": "Intervene further for ongoing isolation, fear, bullying, or impaired functioning.",
+      "refs": [
+        "S22"
+      ],
+      "basis": "The source supports understanding peer difficulties and school cooperation; the practice wording is original.",
+      "related": [
+        "R01",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D01",
+      "topic": "Digital and body safety",
+      "title": "Set device rules around content, timing, and daily-life effects",
+      "min": 3,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "No surveillance subscription is needed; agree and review together.",
+      "goal": "Fit media use alongside sleep, learning, activity, and relationships.",
+      "kid": [
+        "I can help agree on content and endings and ask for help when stopping is hard.",
+        "I must not use devices to shame, harass, or expose others."
+      ],
+      "parent": [
+        "Understand what the child uses and why, then agree on situations, nights, spending, and contacts.",
+        "Adults lead management for young children; increase participation and responsibility with development.",
+        "Adults follow mealtime and conversation rules too; use agreed reminders and endings."
+      ],
+      "example": "“We are not only counting minutes; we are checking whether sleep is being displaced. Charge it here tonight, and we can review at the weekend.”",
+      "avoid": "Do not smash devices, explain every difficulty as addiction, or expose private messages in the name of supervision.",
+      "review": "Review sleep, school, relationships, and mood and adjust when needed.",
+      "escalate": "Seek professional support for ongoing loss of control that significantly harms daily life, including associated difficulties.",
+      "refs": [
+        "S10"
+      ],
+      "basis": "The source supports family media planning; one time limit cannot cover all ages and individual needs.",
+      "related": [
+        "D04",
+        "H05"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D02",
+      "topic": "Digital and body safety",
+      "title": "Stop requests for money, passwords, or intimate images and seek help",
+      "min": 6,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Agree on trusted contacts in advance; adults must help handle incidents.",
+      "goal": "Limit further disclosure, coercion, and loss while keeping help available.",
+      "kid": [
+        "I do not transfer money, give verification codes, or keep sending private material in exchange for secrecy.",
+        "Even if I already sent something, I can seek help and need not handle it alone."
+      ],
+      "parent": [
+        "Use fictional scenarios to recognize urgent threats, gift-based manipulation, and impersonation.",
+        "First ensure safety, verify through trusted channels, and help secure accounts, report to platforms, and obtain outside support when needed.",
+        "Keep necessary text, account, and timing records; do not forward or create extra copies of intimate images of minors."
+      ],
+      "example": "“Thank you for telling me. First we will stop further harm; I will not start by scolding you.”",
+      "avoid": "Do not promise payment will secure deletion, let a child meet an online contact alone to resolve matters, or publicize the incident.",
+      "review": "Check whether risky contact has stopped and both account and real-world safety are addressed.",
+      "escalate": "Seek local professional protection and relevant authorities immediately for sexual extortion, abuse, real-world threats, or major losses.",
+      "refs": [
+        "S16"
+      ],
+      "basis": "The source supports reporting body-related secrets to trusted adults; account-handling steps are practical suggestions, not a complete evidence-preservation protocol.",
+      "related": [
+        "D03",
+        "R01"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D03",
+      "topic": "Digital and body safety",
+      "title": "Teach body boundaries early; protection remains an adult duty",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Everyday conversations; fear-based courses are unnecessary.",
+      "goal": "Help children understand their bodies, express discomfort, and obtain actual help.",
+      "kid": [
+        "My body deserves respect, and so do other people’s bodies.",
+        "Not refusing immediately, accepting a gift, or telling later does not make abuse my fault."
+      ],
+      "parent": [
+        "Use correct names with young children and explain the purpose and privacy of hygiene and medical care.",
+        "Do not force hugs. Teach reporting uncomfortable contact or secrecy requests to trusted adults and continuing until helped.",
+        "If abuse is disclosed, listen, ensure safety, avoid repeated leading questioning, and obtain professional support promptly."
+      ],
+      "example": "“You can tell me about anything involving your body that frightens you, even if someone calls it a secret.”",
+      "avoid": "Saying no is not sufficient protection; never blame a child for failing to resist.",
+      "review": "Make sure the child knows whom to approach while adults examine the actual care environment and boundaries.",
+      "escalate": "For suspected abuse, separate the child from risk and seek protection and necessary medical support; avoid amateur interrogation or repeated confrontation.",
+      "refs": [
+        "S16",
+        "S25"
+      ],
+      "basis": "The sources support body-safety communication and non-shaming body awareness. Responsibility remains with adults.",
+      "related": [
+        "D06",
+        "H03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D04",
+      "topic": "Digital and body safety",
+      "title": "Agree on privacy and supervision instead of relying on secret searches",
+      "min": 8,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "One discussion; new monitoring tools are usually unnecessary.",
+      "goal": "Clarify personal space and the boundaries of safety intervention.",
+      "kid": [
+        "I can have private thoughts while following shared safety agreements.",
+        "I can ask why a parent needs to look and how my information will be protected."
+      ],
+      "parent": [
+        "Knock and seek permission before sharing photos or embarrassing stories.",
+        "Explain what activities you will know about and why, adjusting with ability and risk.",
+        "Concrete serious danger may require proportionate protective action; explain afterward and do not expand it without limit."
+      ],
+      "example": "“I do not need to know every message, but I need to know where the outing is, who is going, and how you will return.”",
+      "avoid": "Do not equate ordinary privacy with deception or promise never to intervene regardless of danger.",
+      "review": "Check whether supervision matches an actual risk and whether the child can still ask for help.",
+      "escalate": "Prioritize protection and appropriate support for coercion, threats, loss of contact, or safety concerns.",
+      "refs": [
+        "S09",
+        "S23"
+      ],
+      "basis": "The sources support awareness of teen activities and respect for growing privacy; they do not authorize unrestricted searches.",
+      "related": [
+        "D05",
+        "D02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D05",
+      "topic": "Digital and body safety",
+      "title": "Prepare a safe exit from outings and risky peer pressure",
+      "min": 10,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Discuss transport, communication, and backup plans; normal travel costs may apply.",
+      "goal": "Enable a safe exit when pressure arises or plans fail.",
+      "kid": [
+        "I can refuse a dangerous invitation, leave, and contact a trusted adult.",
+        "I do not use clearly unsafe transport or remain in danger to save face."
+      ],
+      "parent": [
+        "Know the destination, companions, return plan, and available adults, gradually increasing autonomy.",
+        "Agree on failed contact, changed plans, and requests for collection.",
+        "Get the child safely home first, then discuss breaches; never refuse rescue as punishment."
+      ],
+      "example": "“Even if you broke our agreement, contact me if you feel unsafe. We can discuss the rest afterward.”",
+      "avoid": "Do not impose permanent confinement after one mistake or demand independence without preparation.",
+      "review": "Review an actual or simulated outing and whether the backup plan is usable.",
+      "escalate": "For current danger, serious loss of contact, or coercion, promptly contact local emergency and protection services.",
+      "refs": [
+        "S09"
+      ],
+      "basis": "The source supports parental awareness of activities; the exit signal is a family practice designed for this guide.",
+      "related": [
+        "D04",
+        "I03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "D06",
+      "topic": "Digital and body safety",
+      "title": "Discuss attraction and intimacy with clear consent and respect",
+      "min": 10,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Several short conversations and medical advice when needed.",
+      "goal": "Build judgment about relationships and access to sexual-health support.",
+      "kid": [
+        "I may change my mind and say no; silence, fear, or pressure is not consent.",
+        "I must not control someone with passwords, images, money, or threats."
+      ],
+      "parent": [
+        "Discuss relationships, body changes, and refusal according to understanding, before dating becomes a conflict.",
+        "During adolescence provide accurate information about contraception, infection prevention, and medical help, not only frightening consequences.",
+        "When a relationship comes to light, consider respect, safety, and power differences before daily arrangements."
+      ],
+      "example": "“Can you freely say no in this relationship? If someone threatens you, contact me; you do not have to prove you made no mistakes.”",
+      "avoid": "Do not expose messages or sexual privacy or shame a child over gender, sexual orientation, or curiosity.",
+      "review": "Look for recognition of control and knowledge of support, not whether dating occurs.",
+      "escalate": "Seek timely protection and medical support for possible abuse, coercion, or sexual-health concerns.",
+      "refs": [
+        "S17",
+        "S18"
+      ],
+      "basis": "The sources support ongoing communication and consent; this entry does not replace individual medical or local legal advice.",
+      "related": [
+        "D03",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "I01",
+      "topic": "Independence and daily life",
+      "title": "Teach household tasks before handing them over",
+      "min": 3,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Existing household items, adult demonstrations, and patience.",
+      "goal": "Practice daily-life skills and shared responsibility.",
+      "kid": [
+        "I can do an appropriate part and ask for a demonstration.",
+        "I need not match an adult’s speed to contribute."
+      ],
+      "parent": [
+        "Choose safe tasks: a young child puts away one object, a school-age child organizes an area, and a teen gradually handles whole routines.",
+        "Demonstrate steps, work together, then reduce help.",
+        "Do not assign work by gender or permanently exempt a child because of grades."
+      ],
+      "example": "“Put your cup back today. I will show you the washing steps again.”",
+      "avoid": "Keep dangerous tools and chemicals away from young children and avoid treating all chores as punishment.",
+      "review": "Notice growing independent steps and whether tasks are fair and manageable.",
+      "escalate": "Adapt for ability and physical needs instead of judging everyone by one standard.",
+      "refs": [
+        "S07"
+      ],
+      "basis": "The source supports manageable household work; age examples are practice suggestions, not milestones.",
+      "related": [
+        "P03",
+        "I03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "I02",
+      "topic": "Independence and daily life",
+      "title": "Use a small budget to practice choices, not to measure worth",
+      "min": 6,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Amounts depend on family means; a pretend budget can come first.",
+      "goal": "Practice planning, waiting, comparing prices, and payment permission.",
+      "kid": [
+        "I can compare needs and wants and accept a budget limit.",
+        "If I spend it, I can review rather than hide it or borrow to cover it up."
+      ],
+      "parent": [
+        "Explain which basic needs adults cover and which choices use discretionary money.",
+        "Start small or simulate, record choices and outcomes, and check information before buying.",
+        "Limit payment access and do not use high-risk investments to teach financial skills."
+      ],
+      "example": "“You may choose how to use this amount. Buying this means waiting for the other item. Let us work it out.”",
+      "avoid": "Do not link basic living expenses to grades or compare children’s worth by wealth.",
+      "review": "Look for reasoned choices, price checks, and waiting rather than saving every penny.",
+      "escalate": "Help promptly with borrowing, coerced spending, fraud, or persistent loss of control.",
+      "refs": [],
+      "basis": "Practical suggestion, not a promise of future financial outcomes or investment advice.",
+      "related": [
+        "R05",
+        "D02"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "I03",
+      "topic": "Independence and daily life",
+      "title": "Practice real-life tasks before leaving home",
+      "min": 12,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Spread practice through ordinary life; some tasks have normal expenses.",
+      "goal": "Reduce unfamiliarity and develop help-seeking and repair skills.",
+      "kid": [
+        "I can practice cooking, laundry, travel, document management, and appointments.",
+        "When unsure, I can consult reliable information and an appropriate person."
+      ],
+      "parent": [
+        "Begin with a low-risk task led by the child while adults check safety-critical details.",
+        "Practice checking prices, times, cancellation terms, and necessary information; do not send documents casually to strangers.",
+        "Help resolve failures, then gradually reduce taking over."
+      ],
+      "example": "“You plan the route and return journey; I will help check safety and a backup.”",
+      "avoid": "Do not use dangerous tasks as independence tests or permanently reclaim responsibility after one failure.",
+      "review": "Look for knowing where to check, whom to ask, and how to recover.",
+      "escalate": "Use relevant professionals for health, substantial contracts, or legal and financial risks.",
+      "refs": [],
+      "basis": "Adapt the practical checklist to location, ability, and resources; it is not an adulthood qualification test.",
+      "related": [
+        "D05",
+        "I02"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "I04",
+      "topic": "Independence and daily life",
+      "title": "Compare reliable information and try experiences before career choices",
+      "min": 14,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Research and experience take time; verify costs first.",
+      "goal": "Improve the reasons for a decision while preserving alternatives.",
+      "kid": [
+        "I can describe interests and worries and admit what I do not yet know.",
+        "I can examine courses, ask workers, and compare real constraints."
+      ],
+      "parent": [
+        "List interests, abilities, courses, costs, lifestyle, and alternatives.",
+        "Distinguish marketing and individual anecdotes from verifiable information about opportunities and limits.",
+        "State family resources transparently and involve the young person in choices and action; avoid framing one decision as destiny."
+      ],
+      "example": "“What matters to you? What worries me? Let us each find evidence and identify something we can try first.”",
+      "avoid": "Do not let prestige replace the whole decision or impose unfulfilled parental ambitions.",
+      "review": "Check for specific reasons, verified information, a next step, and a backup.",
+      "escalate": "Seek suitable guidance when choices bring persistent marked anxiety or family conflict.",
+      "refs": [],
+      "basis": "Editorial decision framework, not a career prediction model or a guarantee of income or admission.",
+      "related": [
+        "L05",
+        "L06",
+        "I02"
+      ],
+      "kind": "Practical suggestions"
+    },
+    {
+      "id": "H01",
+      "topic": "Difficulties and getting help",
+      "title": "When school is avoided, check health, safety, and pressure",
+      "min": 4,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Family–school discussion and necessary medical or psychological assessment.",
+      "goal": "Identify barriers and restore safe, supported participation in learning.",
+      "kid": [
+        "I can say where I feel unwell or which part frightens me most.",
+        "I do not have to pretend everything is fine to prove courage."
+      ],
+      "parent": [
+        "Take headaches and stomachaches seriously and assess physical illness when needed.",
+        "Explore bullying, relationships with staff, workload, anxiety, and life changes.",
+        "Agree on support and return arrangements with the child, school, and professionals; establish protection before exposure to safety threats."
+      ],
+      "example": "“Let us identify the hardest part. I will take it seriously rather than just drag you into school.”",
+      "avoid": "Avoid indefinite avoidance and force without assessment or protection; do not assume symptoms are faked.",
+      "review": "Review whether barriers are being resolved and participation is returning, not just attendance totals.",
+      "escalate": "Seek early professional help for persistent refusal, marked loss of functioning, or safety risks.",
+      "refs": [
+        "S12"
+      ],
+      "basis": "The source supports assessment, exploration, and school cooperation; the pace of return must be individualized.",
+      "related": [
+        "R01",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "H02",
+      "topic": "Difficulties and getting help",
+      "title": "Support and assess persistent low mood or anxiety",
+      "min": 1,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Ongoing support; assessment and treatment may have costs.",
+      "goal": "Recognize difficulties affecting daily life and obtain appropriate help.",
+      "kid": [
+        "Feeling unwell does not mean I lack willpower; I can tell a trusted adult.",
+        "I do not have to wait until things are extremely serious to seek help."
+      ],
+      "parent": [
+        "Notice substantial changes in sleep, eating, interests, relationships, learning, or physical complaints.",
+        "Listen, record duration and impact, reduce blame, and retain manageable routines.",
+        "Consult pediatric or child and adolescent mental-health services when difficulties last weeks or impair life; do not wait with severe symptoms."
+      ],
+      "example": "“I have noticed you are having a hard time. You do not have to carry it alone; we will find suitable help.”",
+      "avoid": "Do not diagnose from a checklist or substitute travel, lectures, or confiscating a phone for needed assessment.",
+      "review": "Review functioning and distress with professionals rather than demanding a happy appearance.",
+      "escalate": "Move immediately to H03 for self-harm, suicidal or violent intent, or current danger.",
+      "refs": [
+        "S13"
+      ],
+      "basis": "The source identifies persistent distress and impaired functioning as reasons for assessment, not self-diagnostic criteria.",
+      "related": [
+        "H03",
+        "H05"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "H03",
+      "topic": "Difficulties and getting help",
+      "title": "Put safety first when self-harm or harm to others is possible",
+      "min": 1,
+      "max": 18,
+      "priority": "Act urgently",
+      "cost": "Immediate adult presence and urgent professional help.",
+      "goal": "Protect life; this is not the time for discipline or reviewing schoolwork.",
+      "kid": [
+        "I can tell a trusted adult directly about dangerous thoughts.",
+        "If the first person does not help, I can keep seeking another reliable person."
+      ],
+      "parent": [
+        "Take relevant statements seriously. With children able to understand and communicate, calmly ask directly about self-harm thoughts, plans, and current danger. With young children who cannot explain, observe and protect without automatically labeling behavior suicidal.",
+        "With immediate danger, an injury, or uncertainty about safety, do not leave the child alone; reduce access to dangerous items when you can safely do so.",
+        "Contact local emergency services or emergency medical care immediately for assessment; do not rely only on a verbal promise."
+      ],
+      "example": "“Thank you for telling me. I will stay with you while we get help to keep you safe.”",
+      "avoid": "Do not scold, challenge, promise secrecy, or assign supervision to underage siblings.",
+      "review": "Follow professional arrangements after the crisis and review support at home and school.",
+      "escalate": "This entry already requires escalation: act immediately for imminent risk, without waiting for any review period in this guide.",
+      "refs": [
+        "S14"
+      ],
+      "basis": "The source supports direct questions, serious attention, and prompt help; this is not comprehensive crisis-response training.",
+      "related": [
+        "H02",
+        "R01"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "H04",
+      "topic": "Difficulties and getting help",
+      "title": "Respect developmental differences; assess significant regression",
+      "min": 1,
+      "max": 18,
+      "priority": "Use when needed",
+      "cost": "Observation and formal assessment take time; costs vary.",
+      "goal": "Avoid interpreting support needs as failed parenting.",
+      "kid": [
+        "I can communicate, learn, and participate in ways that work for me.",
+        "I do not have to develop exactly like peers to deserve respect."
+      ],
+      "parent": [
+        "Record specific behavior, onset, settings, and changes in established skills.",
+        "Consult clinicians, teachers, and relevant professionals rather than relying only on online checklists.",
+        "While waiting, provide clear steps, communication support, and safe accessible activities."
+      ],
+      "example": "“We want to understand the support you need, not give you a score.”",
+      "avoid": "Do not dismiss concerns with “late talkers are gifted,” or casually attach diagnostic or intelligence labels.",
+      "review": "Use professional advice for individual goals rather than trying to catch up in every area at once.",
+      "escalate": "Seek timely medical assessment for lost established skills, sudden change, or associated physical symptoms.",
+      "refs": [
+        "S15"
+      ],
+      "basis": "The source supports early action on concerns; age milestones are not diagnoses.",
+      "related": [
+        "L07",
+        "C01"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "H05",
+      "topic": "Difficulties and getting help",
+      "title": "Protect sleep before discussing productivity",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Adjust schedules; products are usually unnecessary.",
+      "goal": "Preserve a basic physical foundation for learning and emotional regulation.",
+      "kid": [
+        "I can tell adults when I am tired or sleeping poorly; staying up late is not proof of effort.",
+        "I can help plan how to end activities before bed."
+      ],
+      "parent": [
+        "General total sleep per 24 hours: ages 1–2, 11–14 hours; 3–5, 10–13; 6–12, 9–12; 13–18, 8–10. Young children’s totals include naps.",
+        "Check whether work, travel, extracurricular activities, or devices displace sleep, and build sustainable routines.",
+        "Investigate environment, emotions, and physical problems instead of blaming poor sleep solely on self-control."
+      ],
+      "example": "“There is not enough time. Let us adjust the tasks rather than make up for it by sleeping less every day.”",
+      "avoid": "Do not use sleep deprivation as punishment or give sleep medicines or supplements without appropriate advice.",
+      "review": "Consider actual sleep and daytime functioning; individual and medical needs follow professional advice.",
+      "escalate": "Seek medical assessment for persistent insomnia, marked daytime sleepiness, or snoring with breathing abnormalities.",
+      "refs": [
+        "S19"
+      ],
+      "basis": "Sleep ranges come from professional consensus; household scheduling suggestions are editorial.",
+      "related": [
+        "D01",
+        "L03"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    },
+    {
+      "id": "H06",
+      "topic": "Difficulties and getting help",
+      "title": "Make real room for movement, meals, and rest",
+      "min": 1,
+      "max": 18,
+      "priority": "Build the foundations",
+      "cost": "Use available family resources; expensive lessons or equipment are not required.",
+      "goal": "Treat healthy routines as a foundation rather than what remains after schoolwork.",
+      "kid": [
+        "I can choose enjoyable activities suited to my ability.",
+        "My body should not be mocked or ranked against others."
+      ],
+      "parent": [
+        "Provide safe movement appropriate to age and physical condition: play for young children and increasing choice for older ones.",
+        "Offer regular, reasonably balanced meals without forced clean plates, body shaming, or extreme restriction.",
+        "Model the habits and preserve feasible movement and rest even during busy school periods."
+      ],
+      "example": "“Would you prefer a walk, a ball game, or something else today? Let us choose something manageable.”",
+      "avoid": "Do not use exercise as punishment, equate body size with character, or require activity through injury.",
+      "review": "Consider sustainability and experience, not only weight or step counts.",
+      "escalate": "Seek medical support for pain, exercise-related symptoms, marked eating changes, or other physical concerns.",
+      "refs": [
+        "S24"
+      ],
+      "basis": "The source supports nutrition, movement, sleep, and modeling; this is not an individualized nutrition or exercise prescription.",
+      "related": [
+        "H05",
+        "H02"
+      ],
+      "kind": "Professional guidance + practical suggestions"
+    }
+  ],
+  "intro": [
+    "This guide is for children and their caregivers. Children gradually practice expression, cooperation, judgment, and responsibility. Adults provide the conditions, examples, protection, and age-appropriate support. Their responsibilities are not equal.",
+    "The entries for ages 1–18 help you find material; they are not developmental pass marks. Development, school entry, and puberty vary. Body and safety education should continue over time, without waiting for a particular birthday. Adults mainly narrate and practice with children ages 1–6; from age 7, choose shared or independent reading according to ability.",
+    "Start with the current age and one real problem. Try one change and observe whether it fits your family. Do not turn the whole guide into a checklist of compulsory achievements. Practice periods are scheduling examples, not scientifically established deadlines for improvement.",
+    "Effort estimates are qualitative, and intended improvements are goals, not guarantees. Priorities are editorial: act urgently for current danger, build the foundations for basic conditions, and use when needed for specific difficulties. Escalation signs in ordinary entries also deserve immediate attention.",
+    "Each entry separates principles supported by professional sources from the steps, scripts, and exercises written for this guide. This is not a systematic review. It does not assign falsely precise A/B/C evidence grades or turn associations into causal claims. Books help understanding; they do not automatically prove a method works.",
+    "References are limited to public materials from official and professional organizations in China and developed countries including the United States, United Kingdom, and Canada. Foreign laws, helplines, medical procedures, and school systems are not transplanted here. Check the arrangements where you live.",
+    "This edition was researched and written with AI assistance and has not received independent review by child-development, education, or clinical experts. It is general educational information, not diagnosis, treatment, or crisis-response training. For current danger, contact local emergency services and appropriate professionals."
+  ],
+  "children": [
+    {
+      "id": "K01",
+      "range": "Ages 1–3 · An adult narrates and practices with me",
+      "title": "Someone responds to me; I can learn gradually",
+      "items": [
+        "I use pointing, sounds, and movement to show my needs. Adults can help put them into words.",
+        "I can try picking up, putting away, and dressing. Adults protect me from danger.",
+        "When I cry, I need help, not ridicule.",
+        "I may feel angry, but adults will stop me from hurting others."
+      ],
+      "exercise": "Today, an adult practices noticing one need, saying a short sentence, and waiting for a response. Do not ask a toddler to memorize rules.",
+      "links": [
+        "C01",
+        "C02",
+        "C03"
+      ]
+    },
+    {
+      "id": "K02",
+      "range": "Ages 4–6 · Read and act it out together",
+      "title": "I can say what I need and say no",
+      "items": [
+        "To join a game, I can ask, “May I play too?”",
+        "If I do not want a hug, I can say, “I would like to wave hello.”",
+        "If I break something, I can ask an adult to help me repair it.",
+        "If someone frightens me, I can find a trusted adult. If one person does not help, I can tell another."
+      ],
+      "exercise": "Take turns with a caregiver acting out borrowing a toy and declining to lend it. Then swap roles.",
+      "links": [
+        "C06",
+        "R04",
+        "D03"
+      ]
+    },
+    {
+      "id": "K03",
+      "range": "Ages 7–9 · I can begin reading on my own",
+      "title": "I can ask when I do not know and repair mistakes",
+      "items": [
+        "When a task is difficult, I can show which step I do not understand and ask for help.",
+        "I can use a checklist instead of waiting to be shouted at.",
+        "One rejection from a friend does not mean everyone dislikes me.",
+        "If someone keeps hurting me, adults need to protect me. I do not have to win a fight.",
+        "I can tell the truth and take part in appropriate repair."
+      ],
+      "exercise": "Write or draw three people you can ask for help, including people at home and at school.",
+      "links": [
+        "L03",
+        "R01",
+        "R03"
+      ]
+    },
+    {
+      "id": "K04",
+      "range": "Ages 10–12 · Having opinions and practicing judgment",
+      "title": "I can have privacy and discuss rules",
+      "items": [
+        "I can ask about body changes; they are not shameful.",
+        "I can disagree and explain why without insults.",
+        "Something online is not necessarily true because it sounds certain. I can check.",
+        "I can break large tasks into smaller ones and change a plan.",
+        "A limited budget does not make me worth less than anyone else. I can compare before choosing."
+      ],
+      "exercise": "Choose one family rule. Write what it protects, what makes it difficult, and your suggested change.",
+      "links": [
+        "D04",
+        "L04",
+        "I02"
+      ]
+    },
+    {
+      "id": "K05",
+      "range": "Ages 13–15 · Boundaries, friends, and pressure",
+      "title": "I deserve respect, and so do other people",
+      "items": [
+        "Liking someone does not require giving them my password or accepting unwanted contact.",
+        "If friends push me into risks, I can refuse, leave, and seek help.",
+        "A grade describes one performance, not my worth as a person.",
+        "If I keep feeling distressed, sleeping badly, or struggling to attend school, I can ask a trusted adult and professionals for help.",
+        "Even if I have made a mistake or been threatened, I still deserve protection."
+      ],
+      "exercise": "Prepare a sentence for leaving an uncomfortable situation and identify an adult who can collect or help you.",
+      "links": [
+        "D06",
+        "D05",
+        "H02"
+      ]
+    },
+    {
+      "id": "K06",
+      "range": "Ages 16–18 · Real life and gradual independence",
+      "title": "I make choices and prepare for consequences and alternatives",
+      "items": [
+        "Before choosing study or work, I check courses, costs, actual work, and alternative paths.",
+        "I practice appointments, budgeting, travel, and managing documents, and ask when I do not know.",
+        "Living together means negotiating chores and expenses, not having identical opinions.",
+        "I can repair setbacks and accept help without having to prove independence.",
+        "Other people’s consent and privacy matter as much as my own boundaries."
+      ],
+      "exercise": "Complete a low-risk everyday task. Then note what you did independently, where you got stuck, and what you will do next time.",
+      "links": [
+        "I03",
+        "I04",
+        "D06"
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "T01",
+      "title": "One change at a time: family practice sheet",
+      "note": "Complete together. One week is simply an example of a convenient review interval.",
+      "rows": [
+        [
+          "The specific problem",
+          "Describe behavior and context, not labels such as lazy or immature."
+        ],
+        [
+          "The child’s feelings and difficulties",
+          "Let the child speak first; help toddlers express what you observe."
+        ],
+        [
+          "One step the child is willing to practice",
+          "________"
+        ],
+        [
+          "Help the adult must provide",
+          "________"
+        ],
+        [
+          "Where and when it happens",
+          "________"
+        ],
+        [
+          "How to ask for help if it is difficult",
+          "________"
+        ],
+        [
+          "When to review together",
+          "________"
+        ],
+        [
+          "What we observed and the next adjustment",
+          "________"
+        ]
+      ]
+    },
+    {
+      "id": "T02",
+      "title": "Family media agreement",
+      "note": "Adults complete and follow this too. Never record or publish actual passwords.",
+      "rows": [
+        [
+          "Purpose and content",
+          "Learning / creating / socializing / entertainment; appropriate content and account eligibility."
+        ],
+        [
+          "Situations without devices",
+          "________"
+        ],
+        [
+          "Advance reminders and ending use",
+          "________"
+        ],
+        [
+          "Nighttime arrangements",
+          "________"
+        ],
+        [
+          "Permissions for downloads, purchases, and contacts",
+          "________"
+        ],
+        [
+          "Who to tell about harassment or threats",
+          "________"
+        ],
+        [
+          "What parents will check and why",
+          "________"
+        ],
+        [
+          "Repair after a breach and when access resumes",
+          "________"
+        ],
+        [
+          "Review date",
+          "________"
+        ]
+      ]
+    },
+    {
+      "id": "T03",
+      "title": "Home–school communication record",
+      "note": "Record facts. Do not expose children’s or other pupils’ private information in group chats.",
+      "rows": [
+        [
+          "Time and context",
+          "________"
+        ],
+        [
+          "Specific behavior and effects",
+          "________"
+        ],
+        [
+          "The child’s account",
+          "Preserve their meaning and avoid leading questions."
+        ],
+        [
+          "What the family has tried",
+          "________"
+        ],
+        [
+          "What the school needs to know or help with",
+          "________"
+        ],
+        [
+          "Agreed actions",
+          "________"
+        ],
+        [
+          "Responsible people and follow-up date",
+          "________"
+        ],
+        [
+          "Whether protection is working or escalation is needed",
+          "________"
+        ]
+      ]
+    },
+    {
+      "id": "T04",
+      "title": "Repair after conflict",
+      "note": "Ensure safety, then calm. This cannot replace protective action for bullying or violence.",
+      "rows": [
+        [
+          "What happened",
+          "Describe behavior, not character."
+        ],
+        [
+          "How I felt",
+          "________"
+        ],
+        [
+          "Who my actions affected",
+          "________"
+        ],
+        [
+          "What I can do to repair things",
+          "________"
+        ],
+        [
+          "What I can say or do next time",
+          "________"
+        ],
+        [
+          "What adults need to change",
+          "________"
+        ],
+        [
+          "When to check the repair",
+          "________"
+        ]
+      ]
+    },
+    {
+      "id": "T05",
+      "title": "Compare the options",
+      "note": "For classes, activities, and educational choices. Do not treat a child as an investment return calculation.",
+      "rows": [
+        [
+          "Decision and deadline",
+          "________"
+        ],
+        [
+          "What matters to me",
+          "________"
+        ],
+        [
+          "Option A / option B / wait",
+          "________"
+        ],
+        [
+          "Money, time, and support needed",
+          "________"
+        ],
+        [
+          "Information sources and remaining uncertainties",
+          "________"
+        ],
+        [
+          "Risks and exit conditions",
+          "________"
+        ],
+        [
+          "A small experience to try first",
+          "________"
+        ],
+        [
+          "Final choice and review date",
+          "________"
+        ]
+      ]
+    },
+    {
+      "id": "T06",
+      "title": "Family help contacts",
+      "note": "Use real local contacts. This offline guide collects no personal information; print and keep the completed card privately.",
+      "rows": [
+        [
+          "Trusted adult 1 and contact details",
+          "________"
+        ],
+        [
+          "Trusted adult 2 and contact details",
+          "________"
+        ],
+        [
+          "School contact",
+          "________"
+        ],
+        [
+          "Usual medical and mental-health support",
+          "________"
+        ],
+        [
+          "Local emergency services",
+          "Verify through official local channels before filling in."
+        ],
+        [
+          "What to explain when seeking help",
+          "Location, current danger, and the help needed."
+        ],
+        [
+          "A short help signal the child can use",
+          "________"
+        ],
+        [
+          "Last verification date",
+          "________"
+        ]
+      ]
+    }
+  ],
+  "books": [
+    [
+      "The Book You Wish Your Parents Had Read",
+      "Philippa Perry · United Kingdom",
+      "For reflecting on parents’ own emotions and relationship patterns.",
+      "https://read.douban.com/ebook/157209563/"
+    ],
+    [
+      "How to Talk So Little Kids Will Listen",
+      "Joanna Faber and Julie King · United States",
+      "The publisher identifies ages 2–7; useful for understanding communication with young children.",
+      "https://www.simonandschuster.com/books/How-to-Talk-so-Little-Kids-Will-Listen/Joanna-Faber/The-How-To-Talk-Series/9781501131639"
+    ],
+    [
+      "How to Talk So Kids Will Listen & Listen So Kids Will Talk",
+      "Adele Faber and Elaine Mazlish · United States",
+      "For practicing listening and making requests clearly.",
+      "https://book.douban.com/subject/37928019/"
+    ],
+    [
+      "Positive Discipline",
+      "Jane Nelsen · United States",
+      "For understanding kind, firm boundaries; not all techniques necessarily have the same effects.",
+      "https://book.douban.com/subject/3420606/"
+    ],
+    [
+      "Positive Discipline for Teenagers",
+      "Jane Nelsen and Lynn Lott · United States",
+      "For thinking about adolescent autonomy and responsibility.",
+      "https://my1.zjhzlib.cn/opac/book/2003944758?globalSearchWay=author"
+    ],
+    [
+      "The Whole-Brain Child",
+      "Daniel J. Siegel and Tina Payne Bryson · United States",
+      "For thinking about emotional guidance. Popular-science metaphors are not diagnoses or laws of neuroscience.",
+      "https://www.tinabryson.com/books"
+    ],
+    [
+      "家庭教育 — Family Education (descriptive translation)",
+      "Chen Heqin · China",
+      "Classic educational observations from an earlier era; assess specific practices against modern knowledge.",
+      "https://www.cp.com.cn/book/d1accad4-0.html"
+    ],
+    [
+      "好妈妈胜过好老师 — A Good Mother Is Better Than a Good Teacher (descriptive translation)",
+      "Yin Jianli · China",
+      "Chinese family examples of reading, learning, and communication; fathers can read it too.",
+      "https://jp.tfswufe.edu.cn/opac/book/3c18c1c71fa0c570a0bd1936157b0694"
+    ],
+    [
+      "新家庭教育论纲 — An Outline of New Family Education (descriptive translation)",
+      "Zhu Yongxin · China",
+      "For considering the aims of family education and family roles.",
+      "https://www.hneph.com/10008/books/detail/1333251460464377895"
+    ]
+  ],
+  "selfcheck": [
+    "Does the child know at least one adult who can genuinely help?",
+    "Is there a clear boundary against hitting, humiliation, and threats of abandonment?",
+    "Before making demands, have adults taught the method and checked whether the task fits the child’s development?",
+    "Does the child have meaningful choices suited to their abilities, rather than only obedience?",
+    "Is there real room for sleep, food, movement, and rest?",
+    "Do parents respect privacy and explain necessary safety supervision?",
+    "After mistakes, is there a chance to repair rather than a permanent label?",
+    "Do adults share tasks, get rest, and have their own routes to support?",
+    "Does home–school communication record facts and actions, rather than only criticism?",
+    "Are persistent difficulties receiving support rather than escalating punishment?"
+  ],
+  "language": "en",
+  "translationDate": "2026-10-27"
+}
